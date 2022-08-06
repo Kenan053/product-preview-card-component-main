@@ -10,7 +10,7 @@ body {
 
 .content {
   width: 1440px;
-  margin: 200px auto;
+  margin: 100px auto;
   /* display: grid;
   grid-template-columns: 1fr 1fr; */
   display: flex;
